@@ -29,7 +29,37 @@
       "finnish": "Pienet askeleet, suuri edistys.",
       "category": "Growth",
       "generated_at": "2026-03-22T10:52:32.923373"
+    },
+    {
+      "english": "Thank you, for everything.",
+      "finnish": "Kiitos, kaikesta.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-22T14:05:00.957529"
+    },
+    {
+      "english": "I appreciate your help.",
+      "finnish": "Arvostan, apuasi.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-22T14:05:00.957538"
+    },
+    {
+      "english": "So kind, of you.",
+      "finnish": "Niin ystävällistä, sinulta.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-22T14:05:00.957539"
+    },
+    {
+      "english": "What a gift, truly.",
+      "finnish": "Mikä lahja, todella.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-22T14:05:00.957541"
+    },
+    {
+      "english": "This means a lot.",
+      "finnish": "Tämä merkitsee, paljon.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-22T14:05:00.957542"
     }
   ],
-  "last_updated": "2026-03-22T10:52:32.923375"
+  "last_updated": "2026-03-22T14:05:00.957543"
 }
