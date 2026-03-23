@@ -77,7 +77,7 @@ CATEGORIES_FINNISH = {
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-FINNISH_VOICE = "fi-FI-SelmaNeural"
+FINNISH_VOICE = "fi-FI-NooraNeural"  # Fixed: SelmaNeural doesn't exist, using NooraNeural (female)
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
