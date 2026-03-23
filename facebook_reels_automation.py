@@ -79,6 +79,10 @@ CATEGORIES_FINNISH = {
 ENGLISH_VOICE = "en-US-GuyNeural"
 FINNISH_VOICE = "fi-FI-NooraNeural"  # Fixed: SelmaNeural doesn't exist, using NooraNeural (female)
 
+# gTTS language codes (fallback)
+ENGLISH_LANG = "en"
+FINNISH_LANG = "fi"
+
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
 
@@ -231,16 +235,44 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
 # ============== AUDIO GENERATION ==============
 
-async def generate_single_audio(text: str, voice: str, output_path: str):
-    """Generate audio using Edge TTS"""
+async def generate_single_audio(text: str, voice: str, output_path: str, max_retries: int = 3):
+    """Generate audio using Edge TTS with retry logic"""
+    for attempt in range(max_retries):
+        try:
+            import edge_tts
+            communicate = edge_tts.Communicate(text, voice)
+            await communicate.save(output_path)
+            
+            # Verify audio was actually generated
+            if Path(output_path).exists() and Path(output_path).stat().st_size > 0:
+                return True
+            else:
+                print(f"  TTS warning: Empty file on attempt {attempt + 1}")
+                if Path(output_path).exists():
+                    Path(output_path).unlink()
+        except Exception as e:
+            print(f"  TTS error (attempt {attempt + 1}/{max_retries}): {e}")
+        
+        if attempt < max_retries - 1:
+            import time
+            time.sleep(2)  # Wait before retry
+    
+    return False
+
+
+def generate_fallback_audio(text: str, lang: str, output_path: str):
+    """Generate audio using gTTS as fallback when Edge TTS fails"""
     try:
-        import edge_tts
-        communicate = edge_tts.Communicate(text, voice)
-        await communicate.save(output_path)
-        return True
+        from gtts import gTTS
+        tts = gTTS(text=text, lang=lang, slow=False)
+        tts.save(output_path)
+        
+        if Path(output_path).exists() and Path(output_path).stat().st_size > 0:
+            return True
     except Exception as e:
-        print(f"  TTS error: {e}")
-        return False
+        print(f"  gTTS error: {e}")
+    
+    return False
 
 
 def generate_all_audio(phrases: list, output_dir: str):
@@ -259,21 +291,31 @@ def generate_all_audio(phrases: list, output_dir: str):
         print(f"    EN: {phrase['english']}")
         print(f"    FI: {phrase['finnish']}")
 
-        # Generate English audio
+        # Generate English audio (Edge TTS with gTTS fallback)
         en_success = asyncio.run(generate_single_audio(phrase["english"], ENGLISH_VOICE, str(english_file)))
+        if not en_success:
+            print(f"  Trying gTTS fallback for English...")
+            en_success = generate_fallback_audio(phrase["english"], ENGLISH_LANG, str(english_file))
+        
         if en_success:
             print(f"    ✓ English: {english_file.name}")
         else:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
+            print(f"    ⚠ English: Using silent fallback")
 
-        # Generate Finnish audio
+        # Generate Finnish audio (Edge TTS with gTTS fallback)
         fi_success = asyncio.run(generate_single_audio(phrase["finnish"], FINNISH_VOICE, str(finnish_file)))
+        if not fi_success:
+            print(f"  Trying gTTS fallback for Finnish...")
+            fi_success = generate_fallback_audio(phrase["finnish"], FINNISH_LANG, str(finnish_file))
+        
         if fi_success:
             print(f"    ✓ Finnish: {finnish_file.name}")
         else:
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(finnish_file)]
             subprocess.run(cmd, capture_output=True)
+            print(f"    ⚠ Finnish: Using silent fallback")
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
