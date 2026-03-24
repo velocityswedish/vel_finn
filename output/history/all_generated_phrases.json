@@ -359,7 +359,37 @@
       "finnish": "Tämä on todellinen, siunaus.",
       "category": "Gratitude",
       "generated_at": "2026-03-24T16:41:35.187153"
+    },
+    {
+      "english": "So happy, right now.",
+      "finnish": "Niin iloinen, juuri nyt.",
+      "category": "Joy",
+      "generated_at": "2026-03-24T19:37:38.382756"
+    },
+    {
+      "english": "This is wonderful, truly.",
+      "finnish": "Tämä on ihanaa, todella.",
+      "category": "Joy",
+      "generated_at": "2026-03-24T19:37:38.382765"
+    },
+    {
+      "english": "Feeling great, yes!",
+      "finnish": "Olo on mahtava, kyllä!",
+      "category": "Joy",
+      "generated_at": "2026-03-24T19:37:38.382766"
+    },
+    {
+      "english": "Such good news, wow.",
+      "finnish": "Niin hyviä uutisia, vau.",
+      "category": "Joy",
+      "generated_at": "2026-03-24T19:37:38.382767"
+    },
+    {
+      "english": "Pure joy, I feel.",
+      "finnish": "Puhdasta iloa, tunnen.",
+      "category": "Joy",
+      "generated_at": "2026-03-24T19:37:38.382768"
     }
   ],
-  "last_updated": "2026-03-24T16:41:35.187154"
+  "last_updated": "2026-03-24T19:37:38.382770"
 }
