@@ -329,7 +329,37 @@
       "finnish": "Usko itseesi, sinä pystyt.",
       "category": "Positive Life",
       "generated_at": "2026-03-24T05:41:26.143592"
+    },
+    {
+      "english": "You're a lifesaver.",
+      "finnish": "Olet pelastus.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:35.187140"
+    },
+    {
+      "english": "I'm so grateful, now.",
+      "finnish": "Olen niin kiitollinen, nyt.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:35.187149"
+    },
+    {
+      "english": "Bless your heart.",
+      "finnish": "Siunausta, sydämellesi.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:35.187151"
+    },
+    {
+      "english": "Thank you, sincerely.",
+      "finnish": "Kiitos, vilpittömästi.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:35.187152"
+    },
+    {
+      "english": "A true blessing, this.",
+      "finnish": "Tämä on todellinen, siunaus.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-24T16:41:35.187153"
     }
   ],
-  "last_updated": "2026-03-24T05:41:26.143593"
+  "last_updated": "2026-03-24T16:41:35.187154"
 }
