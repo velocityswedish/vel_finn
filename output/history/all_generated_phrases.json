@@ -539,7 +539,37 @@
       "finnish": "Iloisia aikoja, edessä.",
       "category": "Joy",
       "generated_at": "2026-03-25T19:02:25.806151"
+    },
+    {
+      "english": "Learn Finnish, for fun.",
+      "finnish": "Opiskele suomea, huvin vuoksi.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T20:58:17.841594"
+    },
+    {
+      "english": "Travel Finland, see the lakes.",
+      "finnish": "Matkusta Suomeen, näe järvet.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T20:58:17.841603"
+    },
+    {
+      "english": "Read Finnish books, for knowledge.",
+      "finnish": "Lue suomalaisia kirjoja, tiedoksi.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T20:58:17.841605"
+    },
+    {
+      "english": "Understand songs, speak better.",
+      "finnish": "Ymmärrä lauluja, puhu paremmin.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T20:58:17.841606"
+    },
+    {
+      "english": "Meet Finns, make friends.",
+      "finnish": "Tapaa suomalaisia, hanki ystäviä.",
+      "category": "Purpose",
+      "generated_at": "2026-03-25T20:58:17.841607"
     }
   ],
-  "last_updated": "2026-03-25T19:02:25.806153"
+  "last_updated": "2026-03-25T20:58:17.841608"
 }
