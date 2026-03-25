@@ -509,7 +509,37 @@
       "finnish": "Sinä olet, tarpeeksi.",
       "category": "Mindfulness",
       "generated_at": "2026-03-25T16:47:10.458380"
+    },
+    {
+      "english": "What a delight, honestly.",
+      "finnish": "Mikä ilo, rehellisesti.",
+      "category": "Joy",
+      "generated_at": "2026-03-25T19:02:25.806131"
+    },
+    {
+      "english": "My heart sings, it does.",
+      "finnish": "Sydämeni laulaa, se tekee.",
+      "category": "Joy",
+      "generated_at": "2026-03-25T19:02:25.806147"
+    },
+    {
+      "english": "This makes me smile, a lot.",
+      "finnish": "Tämä saa minut hymyilemään, paljon.",
+      "category": "Joy",
+      "generated_at": "2026-03-25T19:02:25.806149"
+    },
+    {
+      "english": "So pleased, you are.",
+      "finnish": "Niin tyytyväinen, olet.",
+      "category": "Joy",
+      "generated_at": "2026-03-25T19:02:25.806150"
+    },
+    {
+      "english": "Happy times, ahead.",
+      "finnish": "Iloisia aikoja, edessä.",
+      "category": "Joy",
+      "generated_at": "2026-03-25T19:02:25.806151"
     }
   ],
-  "last_updated": "2026-03-25T16:47:10.458382"
+  "last_updated": "2026-03-25T19:02:25.806153"
 }
