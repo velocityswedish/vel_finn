@@ -479,7 +479,37 @@
       "finnish": "Olet tarpeeksi, juuri sellaisena kuin olet.",
       "category": "Positive Life",
       "generated_at": "2026-03-25T05:42:19.515045"
+    },
+    {
+      "english": "Find peace, within.",
+      "finnish": "Löydä rauha, sisältä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-25T16:47:10.458368"
+    },
+    {
+      "english": "Observe, without judgment.",
+      "finnish": "Tarkkaile, tuomitsematta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-25T16:47:10.458377"
+    },
+    {
+      "english": "Gently, release tension.",
+      "finnish": "Hellästi, vapauta jännitys.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-25T16:47:10.458378"
+    },
+    {
+      "english": "Appreciate this moment.",
+      "finnish": "Arvosta tätä hetkeä.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-25T16:47:10.458379"
+    },
+    {
+      "english": "You are, enough.",
+      "finnish": "Sinä olet, tarpeeksi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-25T16:47:10.458380"
     }
   ],
-  "last_updated": "2026-03-25T05:42:19.515046"
+  "last_updated": "2026-03-25T16:47:10.458382"
 }
