@@ -659,7 +659,37 @@
       "finnish": "Tasapainota työ, ja leikki.",
       "category": "Balance",
       "generated_at": "2026-03-26T20:06:35.379219"
+    },
+    {
+      "english": "You're a great friend, truly.",
+      "finnish": "Olet hyvä ystävä, todella.",
+      "category": "Friendship",
+      "generated_at": "2026-03-27T06:03:07.651938"
+    },
+    {
+      "english": "Thanks for being you, always.",
+      "finnish": "Kiitos, että olet sinä, aina.",
+      "category": "Friendship",
+      "generated_at": "2026-03-27T06:03:07.651947"
+    },
+    {
+      "english": "Glad we met, you know?",
+      "finnish": "Hyvä, että tapasimme, tiedätkö?",
+      "category": "Friendship",
+      "generated_at": "2026-03-27T06:03:07.651948"
+    },
+    {
+      "english": "You make things brighter, friend.",
+      "finnish": "Piristät asioita, ystävä.",
+      "category": "Friendship",
+      "generated_at": "2026-03-27T06:03:07.651949"
+    },
+    {
+      "english": "I appreciate you, a lot.",
+      "finnish": "Arvostan sinua, kovasti.",
+      "category": "Friendship",
+      "generated_at": "2026-03-27T06:03:07.651950"
     }
   ],
-  "last_updated": "2026-03-26T20:06:35.379221"
+  "last_updated": "2026-03-27T06:03:07.651952"
 }
