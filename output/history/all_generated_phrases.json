@@ -809,7 +809,37 @@
       "finnish": "Naurusi kaikuu, kotisi seinillä.",
       "category": "Happiness",
       "generated_at": "2026-03-27T23:47:49.831078"
+    },
+    {
+      "english": "Sunlight on new snow, ah.",
+      "finnish": "Uusi lumi auringossa, aa.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T05:38:03.809445"
+    },
+    {
+      "english": "This moment, perfectly still.",
+      "finnish": "Tämä hetki, täysin hiljainen.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T05:38:03.809455"
+    },
+    {
+      "english": "A warm mug, in hand.",
+      "finnish": "Lämmin muki, kädessä.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T05:38:03.809457"
+    },
+    {
+      "english": "The forest whispers secrets.",
+      "finnish": "Metsä kuiskii salaisuuksia.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T05:38:03.809458"
+    },
+    {
+      "english": "Such a happy little bird.",
+      "finnish": "Niin iloinen pieni lintu.",
+      "category": "Joy",
+      "generated_at": "2026-03-28T05:38:03.809459"
     }
   ],
-  "last_updated": "2026-03-27T23:47:49.831079"
+  "last_updated": "2026-03-28T05:38:03.809461"
 }
