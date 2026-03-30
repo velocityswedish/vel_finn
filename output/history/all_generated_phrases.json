@@ -1139,7 +1139,37 @@
       "finnish": "Hyväksy avautuva, tarina.",
       "category": "Happiness",
       "generated_at": "2026-03-30T07:06:53.742069"
+    },
+    {
+      "english": "Breathe in calm, exhale worries.",
+      "finnish": "Hengitä sisään tyyneyttä, ulos huolia.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T16:15:54.128205"
+    },
+    {
+      "english": "Feel the quiet, like falling snow.",
+      "finnish": "Tunne hiljaisuus, kuin satava lumi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T16:15:54.128213"
+    },
+    {
+      "english": "Each moment, a new horizon.",
+      "finnish": "Jokainen hetki, uusi horisontti.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T16:15:54.128215"
+    },
+    {
+      "english": "Let the day unfold, like a flower.",
+      "finnish": "Anna päivän aueta, kuin kukka.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T16:15:54.128217"
+    },
+    {
+      "english": "Listen to your inner whisper.",
+      "finnish": "Kuuntele sisäistä kuiskettasi.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T16:15:54.128218"
     }
   ],
-  "last_updated": "2026-03-30T07:06:53.742071"
+  "last_updated": "2026-03-30T16:15:54.128219"
 }
