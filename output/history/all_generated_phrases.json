@@ -1229,7 +1229,37 @@
       "finnish": "Sinun hymysi, piristää päivää.",
       "category": "Happiness",
       "generated_at": "2026-03-30T21:28:09.607108"
+    },
+    {
+      "english": "Listen, to the quiet hum.",
+      "finnish": "Kuuntele, hiljaista hurinaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T23:54:11.493543"
+    },
+    {
+      "english": "Breathe deep, like forest air.",
+      "finnish": "Hengitä syvään, metsän ilmaa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T23:54:11.493551"
+    },
+    {
+      "english": "Just be, this moment's light.",
+      "finnish": "Ole vain, hetken valo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T23:54:11.493552"
+    },
+    {
+      "english": "See the patterns, in the rain.",
+      "finnish": "Näe kuviot, sateessa.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T23:54:11.493553"
+    },
+    {
+      "english": "Let go, the circling thought.",
+      "finnish": "Päästä irti, pyörivästä ajatuksesta.",
+      "category": "Mindfulness",
+      "generated_at": "2026-03-30T23:54:11.493555"
     }
   ],
-  "last_updated": "2026-03-30T21:28:09.607110"
+  "last_updated": "2026-03-30T23:54:11.493556"
 }
