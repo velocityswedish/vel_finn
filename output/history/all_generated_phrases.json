@@ -3059,7 +3059,37 @@
       "finnish": "Lempeä keinu, eteenpäin liike.",
       "category": "Balance",
       "generated_at": "2026-04-30T04:35:24.647368"
+    },
+    {
+      "english": "Every sunrise, a new path.",
+      "finnish": "Jokainen auringonnousu, uusi polku.",
+      "category": "Success",
+      "generated_at": "2026-04-30T15:01:04.702467"
+    },
+    {
+      "english": "Find the quiet strength.",
+      "finnish": "Löydä hiljainen voima.",
+      "category": "Success",
+      "generated_at": "2026-04-30T15:01:04.702475"
+    },
+    {
+      "english": "Your own pace, your own rhythm.",
+      "finnish": "Oma tahtisi, oma rytmisi.",
+      "category": "Success",
+      "generated_at": "2026-04-30T15:01:04.702476"
+    },
+    {
+      "english": "The best view, after the climb.",
+      "finnish": "Paras näkymä, nousun jälkeen.",
+      "category": "Success",
+      "generated_at": "2026-04-30T15:01:04.702477"
+    },
+    {
+      "english": "Let understanding blossom.",
+      "finnish": "Anna ymmärryksen kukkia.",
+      "category": "Success",
+      "generated_at": "2026-04-30T15:01:04.702478"
     }
   ],
-  "last_updated": "2026-04-30T04:35:24.647370"
+  "last_updated": "2026-04-30T15:01:04.702480"
 }
