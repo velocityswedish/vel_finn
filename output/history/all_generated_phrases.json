@@ -3989,7 +3989,37 @@
       "finnish": "Hiljainen joki, pitää syvät virrat.",
       "category": "Strength",
       "generated_at": "2026-05-06T20:18:36.207503"
+    },
+    {
+      "english": "Sunbeam, warm hug, that's happiness.",
+      "finnish": "Auringonsäde, lämmin halaus, se on onnea.",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T22:38:04.761238"
+    },
+    {
+      "english": "A good book, quiet moment, pure joy.",
+      "finnish": "Hyvä kirja, hiljainen hetki, puhdas ilo.",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T22:38:04.761245"
+    },
+    {
+      "english": "Sharing laughter, makes the day brighter.",
+      "finnish": "Naurettujen jakaminen, tekee päivästä kirkkaamman.",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T22:38:04.761246"
+    },
+    {
+      "english": "Finding a small, lost treasure, feels great.",
+      "finnish": "Pienen, kadonneen aarteen löytäminen, tuntuu hyvältä.",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T22:38:04.761247"
+    },
+    {
+      "english": "The smell of rain, after a long dry spell.",
+      "finnish": "Sateen tuoksu, pitkän kuivuuden jälkeen.",
+      "category": "Happiness",
+      "generated_at": "2026-05-06T22:38:04.761248"
     }
   ],
-  "last_updated": "2026-05-06T20:18:36.207505"
+  "last_updated": "2026-05-06T22:38:04.761250"
 }
