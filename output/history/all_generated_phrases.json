@@ -4859,7 +4859,37 @@
       "finnish": "Pienikin tuulenvire, voi liikuttaa, suurinta purjetta.",
       "category": "Confidence",
       "generated_at": "2026-05-12T17:56:01.253642"
+    },
+    {
+      "english": "The seed, it needs quiet time.",
+      "finnish": "Siemen, se tarvitsee hiljaisuutta.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T20:27:34.888637"
+    },
+    {
+      "english": "This, it will ripen eventually.",
+      "finnish": "Tämä, kypsyy kyllä ajan kanssa.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T20:27:34.888649"
+    },
+    {
+      "english": "Slowly, the fog lifts.",
+      "finnish": "Hitaasti, sumu hälvenee.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T20:27:34.888650"
+    },
+    {
+      "english": "Observe the river's flow.",
+      "finnish": "Tarkkaile, joen virtausta.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T20:27:34.888651"
+    },
+    {
+      "english": "The mountain, it waits for no one.",
+      "finnish": "Vuori, se ei odota ketään.",
+      "category": "Patience",
+      "generated_at": "2026-05-12T20:27:34.888652"
     }
   ],
-  "last_updated": "2026-05-12T17:56:01.253644"
+  "last_updated": "2026-05-12T20:27:34.888654"
 }
