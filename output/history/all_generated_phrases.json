@@ -5219,7 +5219,37 @@
       "finnish": "Kasva missä olet, kuki.",
       "category": "Positive Life",
       "generated_at": "2026-05-14T22:46:28.354121"
+    },
+    {
+      "english": "Every dropped seed, grows a forest.",
+      "finnish": "Jokainen pudonnut siemen, kasvaa metsäksi.",
+      "category": "Success",
+      "generated_at": "2026-05-15T04:54:56.003935"
+    },
+    {
+      "english": "The clearest water, flows from a quiet spring.",
+      "finnish": "Kirkkain vesi, virtaa hiljaisesta lähteestä.",
+      "category": "Success",
+      "generated_at": "2026-05-15T04:54:56.003946"
+    },
+    {
+      "english": "When the path is hidden, trust the moss.",
+      "finnish": "Kun polku on piilossa, luota sammaleeseen.",
+      "category": "Success",
+      "generated_at": "2026-05-15T04:54:56.003947"
+    },
+    {
+      "english": "A small spark, can warm a long night.",
+      "finnish": "Pieni kipinä, voi lämmittää pitkää yötä.",
+      "category": "Success",
+      "generated_at": "2026-05-15T04:54:56.003949"
+    },
+    {
+      "english": "Listen for the bird, before the song starts.",
+      "finnish": "Kuuntele lintua, ennen laulun alkua.",
+      "category": "Success",
+      "generated_at": "2026-05-15T04:54:56.003950"
     }
   ],
-  "last_updated": "2026-05-14T22:46:28.354124"
+  "last_updated": "2026-05-15T04:54:56.003952"
 }
