@@ -6629,7 +6629,37 @@
       "finnish": "Tie edessä, odottaa sinua.",
       "category": "Courage",
       "generated_at": "2026-05-29T21:06:00.052794"
+    },
+    {
+      "english": "The seed, waits for sun.",
+      "finnish": "Siemen, odottaa aurinkoa.",
+      "category": "Patience",
+      "generated_at": "2026-05-29T23:01:44.592579"
+    },
+    {
+      "english": "Slow river, finds the sea.",
+      "finnish": "Hidas joki, löytää meren.",
+      "category": "Patience",
+      "generated_at": "2026-05-29T23:01:44.592589"
+    },
+    {
+      "english": "Frost melts, eventually.",
+      "finnish": "Halla sulaa, lopulta.",
+      "category": "Patience",
+      "generated_at": "2026-05-29T23:01:44.592590"
+    },
+    {
+      "english": "Stars appear, one by one.",
+      "finnish": "Tähdet syttyvät, yksi kerrallaan.",
+      "category": "Patience",
+      "generated_at": "2026-05-29T23:01:44.592591"
+    },
+    {
+      "english": "This too, shall pass.",
+      "finnish": "Tämäkin, menee ohi.",
+      "category": "Patience",
+      "generated_at": "2026-05-29T23:01:44.592592"
     }
   ],
-  "last_updated": "2026-05-29T21:06:00.052795"
+  "last_updated": "2026-05-29T23:01:44.592594"
 }
