@@ -14819,7 +14819,37 @@
       "finnish": "Seiso ryhdikkäänä, väsynein silmin auki",
       "category": "Strength",
       "generated_at": "2026-07-29T20:09:42.051390"
+    },
+    {
+      "english": "I can handle this, one pause at a time.",
+      "finnish": "Minä selviän tästä, yksi tauko kerrallaan.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T22:44:39.707818"
+    },
+    {
+      "english": "My voice finds its way, even today.",
+      "finnish": "Ääneni löytää tiensä, vaikka tänään.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T22:44:39.707830"
+    },
+    {
+      "english": "I learn faster, when I speak first.",
+      "finnish": "Opin nopeammin, kun puhun ensin.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T22:44:39.707832"
+    },
+    {
+      "english": "Mistakes are stepping-stones, not stopping signs.",
+      "finnish": "Virheet ovat askelkiviä, eivät pysäytysmerkkejä.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T22:44:39.707833"
+    },
+    {
+      "english": "I ask again, the answer comes closer.",
+      "finnish": "Kysyn uudestaan, vastaus lähestyy.",
+      "category": "Confidence",
+      "generated_at": "2026-07-29T22:44:39.707834"
     }
   ],
-  "last_updated": "2026-07-29T20:09:42.051392"
+  "last_updated": "2026-07-29T22:44:39.707839"
 }
