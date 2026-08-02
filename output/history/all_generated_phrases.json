@@ -15329,7 +15329,37 @@
       "finnish": "Ääni kasvaa, pienissä hetkissä.",
       "category": "Confidence",
       "generated_at": "2026-08-02T04:28:28.280550"
+    },
+    {
+      "english": "Morning light, thanks for waking me gently.",
+      "finnish": "Aamunvalo, kiitos kun herätät minut lempeästi.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T14:24:01.099246"
+    },
+    {
+      "english": "My cup is warm, thanks for this calm.",
+      "finnish": "Minun mukini on lämmin, kiitos tästä rauhasta.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T14:24:01.099255"
+    },
+    {
+      "english": "Fresh air outside, thank you, I can breathe.",
+      "finnish": "Raikas ilma ulkona, kiitos, saan hengittää.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T14:24:01.099256"
+    },
+    {
+      "english": "Shoes by the door, thanks for safe steps.",
+      "finnish": "Kengät oven edessä, kiitos turvallisista askelista.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T14:24:01.099258"
+    },
+    {
+      "english": "A quiet text, thanks for checking on me.",
+      "finnish": "Hiljainen viesti, kiitos kun huomaat minut.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-02T14:24:01.099259"
     }
   ],
-  "last_updated": "2026-08-02T04:28:28.280552"
+  "last_updated": "2026-08-02T14:24:01.099261"
 }
