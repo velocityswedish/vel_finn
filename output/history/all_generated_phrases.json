@@ -17249,7 +17249,37 @@
       "finnish": "Tee otteesta vahva, anna hartioiden rentoutua.",
       "category": "Strength",
       "generated_at": "2026-08-15T02:14:53.534822"
+    },
+    {
+      "english": "Wait, the kettle won’t hurry.",
+      "finnish": "Odota, vesi kiehuu ajallaan.",
+      "category": "Patience",
+      "generated_at": "2026-08-15T13:23:24.815160"
+    },
+    {
+      "english": "Breathe, repairs need time to set.",
+      "finnish": "Hengitä, korjaus kuivuu rauhassa.",
+      "category": "Patience",
+      "generated_at": "2026-08-15T13:23:24.815170"
+    },
+    {
+      "english": "Slow down, the road learns you.",
+      "finnish": "Hidasta, tie opettaa askeleita.",
+      "category": "Patience",
+      "generated_at": "2026-08-15T13:23:24.815172"
+    },
+    {
+      "english": "Hold still, storms pass like shadows.",
+      "finnish": "Pysy hiljaa, myrskyt väistyvät varjoina.",
+      "category": "Patience",
+      "generated_at": "2026-08-15T13:23:24.815173"
+    },
+    {
+      "english": "Let it marinate, patience has flavor.",
+      "finnish": "Anna hautua, kärsivällisyys maistuu.",
+      "category": "Patience",
+      "generated_at": "2026-08-15T13:23:24.815174"
     }
   ],
-  "last_updated": "2026-08-15T02:14:53.534824"
+  "last_updated": "2026-08-15T13:23:24.815176"
 }
