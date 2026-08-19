@@ -17879,7 +17879,37 @@
       "finnish": "Tyynet kädet, kuumat tunteet laantuvat.",
       "category": "Patience",
       "generated_at": "2026-08-19T13:48:00.804813"
+    },
+    {
+      "english": "Hey, want coffee today, just us two?",
+      "finnish": "Hei, haluatko kahvit tänään, kahdestaan?",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T16:27:08.958707"
+    },
+    {
+      "english": "I brought extra snacks, share them?",
+      "finnish": "Tuoinkin ekstraa, jaetaan ne?",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T16:27:08.958719"
+    },
+    {
+      "english": "You texted, my day softened immediately.",
+      "finnish": "Sinä viestitit, päivääni helpotti heti.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T16:27:08.958721"
+    },
+    {
+      "english": "Walk with me, the streets feel calmer.",
+      "finnish": "Kävele kanssani, kadut tuntuvat rauhallisilta.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T16:27:08.958722"
+    },
+    {
+      "english": "I saved you a seat, come closer.",
+      "finnish": "Säästin sinulle paikan, tule lähemmäs.",
+      "category": "Friendship",
+      "generated_at": "2026-08-19T16:27:08.958723"
     }
   ],
-  "last_updated": "2026-08-19T13:48:00.804815"
+  "last_updated": "2026-08-19T16:27:08.958725"
 }
