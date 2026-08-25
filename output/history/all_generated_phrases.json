@@ -18839,7 +18839,37 @@
       "finnish": "Kuuntele tarkasti, pilkut opettavat rytmiä",
       "category": "Purpose",
       "generated_at": "2026-08-25T19:26:40.465737"
+    },
+    {
+      "english": "I count breaths, then answer calmly.",
+      "finnish": "Lasken hengityksiä, sitten vastaan rauhassa.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T22:13:52.268938"
+    },
+    {
+      "english": "Today, my tongue loosens, one word.",
+      "finnish": "Tänään kieli löystyy, yksi sana.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T22:13:52.268949"
+    },
+    {
+      "english": "I try again, errors become teachers.",
+      "finnish": "Yritän uudelleen, virheet opettavat minua.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T22:13:52.268950"
+    },
+    {
+      "english": "I speak softly, mistakes stay small.",
+      "finnish": "Puhun hiljaa, virheet pysyvät pieninä.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T22:13:52.268951"
+    },
+    {
+      "english": "My pauses breathe, my meaning stays clear.",
+      "finnish": "Tauot hengittävät, merkitys pysyy kirkkaana.",
+      "category": "Confidence",
+      "generated_at": "2026-08-25T22:13:52.268952"
     }
   ],
-  "last_updated": "2026-08-25T19:26:40.465739"
+  "last_updated": "2026-08-25T22:13:52.268954"
 }
