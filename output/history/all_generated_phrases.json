@@ -19739,7 +19739,37 @@
       "finnish": "Venytän hartioita, sitten irrota huolet.",
       "category": "Balance",
       "generated_at": "2026-08-31T23:05:04.771133"
+    },
+    {
+      "english": "Wait, the kettle sings, then you move.",
+      "finnish": "Odota, vesi kiehuu, sitten liikut.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T00:50:39.908793"
+    },
+    {
+      "english": "Breathe, the garden grows, quietly, daily.",
+      "finnish": "Hengitä, puutarha kasvaa, hiljaa, päivittäin.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T00:50:39.908806"
+    },
+    {
+      "english": "Let the clock turn, you still arrive.",
+      "finnish": "Anna kellon kulkea, ehdit perille.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T00:50:39.908807"
+    },
+    {
+      "english": "Pause, rain writes routes on the road.",
+      "finnish": "Pysähdy, sade piirtää reittejä tiellä.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T00:50:39.908809"
+    },
+    {
+      "english": "Hold steady, wind changes, your path opens.",
+      "finnish": "Pidä taso, tuuli vaihtuu, reitti aukeaa.",
+      "category": "Patience",
+      "generated_at": "2026-09-01T00:50:39.908810"
     }
   ],
-  "last_updated": "2026-08-31T23:05:04.771135"
+  "last_updated": "2026-09-01T00:50:39.908812"
 }
