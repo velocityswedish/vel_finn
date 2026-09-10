@@ -21149,7 +21149,37 @@
       "finnish": "Sekoita kahvi hitaasti, pidä mieli lempeänä.",
       "category": "Balance",
       "generated_at": "2026-09-10T05:44:37.476988"
+    },
+    {
+      "english": "Say hi first, brighten someone's morning.",
+      "finnish": "Sano hei ensin, kirkasta jonkun aamu.",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T16:46:54.192946"
+    },
+    {
+      "english": "Hold the door, like it matters.",
+      "finnish": "Pidä ovi auki, kuin se olisi tärkeää.",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T16:46:54.192958"
+    },
+    {
+      "english": "Ask, then listen, gently and fully.",
+      "finnish": "Kysy, sitten kuuntele, ihan rauhassa.",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T16:46:54.192959"
+    },
+    {
+      "english": "Give your seat, the bus will smile.",
+      "finnish": "Anna paikkasi, bussi hymyilee.",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T16:46:54.192960"
+    },
+    {
+      "english": "Share your umbrella, rain feels kinder.",
+      "finnish": "Jaa sateenvarjo, sade tuntuu lempeämmältä.",
+      "category": "Kindness",
+      "generated_at": "2026-09-10T16:46:54.192961"
     }
   ],
-  "last_updated": "2026-09-10T05:44:37.476990"
+  "last_updated": "2026-09-10T16:46:54.192962"
 }
