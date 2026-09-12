@@ -21449,7 +21449,37 @@
       "finnish": "Tunne jalkasi, sitten valitse yksi teko.",
       "category": "Balance",
       "generated_at": "2026-09-12T05:30:30.048407"
+    },
+    {
+      "english": "Courage, breathe, and cross the quiet street.",
+      "finnish": "Rohkeus, hengitä, ja ylitä hiljainen katu.",
+      "category": "Courage",
+      "generated_at": "2026-09-12T15:56:29.619071"
+    },
+    {
+      "english": "I ask once, courage replies with calm.",
+      "finnish": "Kysyn kerran, rohkeus vastaa rauhalla.",
+      "category": "Courage",
+      "generated_at": "2026-09-12T15:56:29.619081"
+    },
+    {
+      "english": "When fear knocks, I open anyway, softly.",
+      "finnish": "Kun pelko koputtaa, avaan silti, hiljaa.",
+      "category": "Courage",
+      "generated_at": "2026-09-12T15:56:29.619082"
+    },
+    {
+      "english": "Courage, sip the courage, speak one sentence.",
+      "finnish": "Rohkeus, ota rohkeutta, sano yksi lause.",
+      "category": "Courage",
+      "generated_at": "2026-09-12T15:56:29.619083"
+    },
+    {
+      "english": "I tidy my thoughts, courage lights the path.",
+      "finnish": "Siistin ajatukset, rohkeus sytyttää polun.",
+      "category": "Courage",
+      "generated_at": "2026-09-12T15:56:29.619084"
     }
   ],
-  "last_updated": "2026-09-12T05:30:30.048409"
+  "last_updated": "2026-09-12T15:56:29.619086"
 }
