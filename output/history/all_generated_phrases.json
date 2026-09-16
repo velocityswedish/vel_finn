@@ -22079,7 +22079,37 @@
       "finnish": "Kysymykset ovat polttoainetta, eivätkä pysäytysmerkkejä,",
       "category": "Confidence",
       "generated_at": "2026-09-16T17:23:34.974470"
+    },
+    {
+      "english": "Morning light returns, you notice hope again",
+      "finnish": "Aamunvalo palaa, huomaat toivon taas",
+      "category": "Hope",
+      "generated_at": "2026-09-16T19:19:37.697843"
+    },
+    {
+      "english": "Your key turns, hope opens a door",
+      "finnish": "Avaimesi kääntyy, toivo avaa oven",
+      "category": "Hope",
+      "generated_at": "2026-09-16T19:19:37.697857"
+    },
+    {
+      "english": "Coffee steams softly, hope warms your hands",
+      "finnish": "Kahvi höyryää, toivo lämmittää kätesi",
+      "category": "Hope",
+      "generated_at": "2026-09-16T19:19:37.697858"
+    },
+    {
+      "english": "In the bus window, hope winks back",
+      "finnish": "Bussin ikkunassa, toivo välähtää takaisin",
+      "category": "Hope",
+      "generated_at": "2026-09-16T19:19:37.697859"
+    },
+    {
+      "english": "You fold your day, hope stays inside",
+      "finnish": "Taitat päivän, toivo jää sisälle",
+      "category": "Hope",
+      "generated_at": "2026-09-16T19:19:37.697860"
     }
   ],
-  "last_updated": "2026-09-16T17:23:34.974472"
+  "last_updated": "2026-09-16T19:19:37.697862"
 }
