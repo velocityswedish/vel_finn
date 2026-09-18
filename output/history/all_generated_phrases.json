@@ -22349,7 +22349,37 @@
       "finnish": "Kysyn yhden kysymyksen, sitten rauhoitun.",
       "category": "Confidence",
       "generated_at": "2026-09-18T05:41:14.116458"
+    },
+    {
+      "english": "Clean your desk, make space for ideas",
+      "finnish": "Siivoa pöytäsi, tee tilaa ideoille",
+      "category": "Purpose",
+      "generated_at": "2026-09-18T16:49:34.702729"
+    },
+    {
+      "english": "Answer one email, then breathe slowly",
+      "finnish": "Vastaa yhteen viestiin, hengitä rauhassa",
+      "category": "Purpose",
+      "generated_at": "2026-09-18T16:49:34.702740"
+    },
+    {
+      "english": "Ask one question, let curiosity drive",
+      "finnish": "Kysy yksi kysymys, anna uteliaisuuden ohjata",
+      "category": "Purpose",
+      "generated_at": "2026-09-18T16:49:34.702742"
+    },
+    {
+      "english": "Walk outside, your language will follow",
+      "finnish": "Kävele ulos, kieli tulee perässä",
+      "category": "Purpose",
+      "generated_at": "2026-09-18T16:49:34.702742"
+    },
+    {
+      "english": "Read one paragraph, reward your effort",
+      "finnish": "Lue yksi kappale, palkitse työtäsi",
+      "category": "Purpose",
+      "generated_at": "2026-09-18T16:49:34.702743"
     }
   ],
-  "last_updated": "2026-09-18T05:41:14.116460"
+  "last_updated": "2026-09-18T16:49:34.702745"
 }
