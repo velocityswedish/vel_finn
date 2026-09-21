@@ -22829,7 +22829,37 @@
       "finnish": "Taittan kirjeen, hengitän, lähetän sen eteenpäin.",
       "category": "Joy",
       "generated_at": "2026-09-21T18:24:00.999175"
+    },
+    {
+      "english": "I’ll check the next word, then breathe.",
+      "finnish": "Tarkistan seuraavan sanan, sitten hengitän.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T20:14:09.376038"
+    },
+    {
+      "english": "My mouth warms up slowly, today.",
+      "finnish": "Suuni lämpenee hitaasti, tänään.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T20:14:09.376047"
+    },
+    {
+      "english": "I can pause, and still understand.",
+      "finnish": "Voin pysähtyä, ja silti ymmärrän.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T20:14:09.376048"
+    },
+    {
+      "english": "I’ll listen first, then answer softly.",
+      "finnish": "Käyn ensin kuuntelemaan, sitten vastaan pehmeästi.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T20:14:09.376050"
+    },
+    {
+      "english": "Each mistake is feedback, not failure.",
+      "finnish": "Jokainen virhe on palaute, ei epäonnistuminen.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T20:14:09.376051"
     }
   ],
-  "last_updated": "2026-09-21T18:24:00.999177"
+  "last_updated": "2026-09-21T20:14:09.376053"
 }
