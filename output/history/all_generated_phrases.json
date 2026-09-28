@@ -23819,7 +23819,37 @@
       "finnish": "Virheet ovat karttoja, neuvomassa seuraavaa yritystä.",
       "category": "Confidence",
       "generated_at": "2026-09-28T06:30:37.156624"
+    },
+    {
+      "english": "Draw maps, even on blank receipts",
+      "finnish": "Piirrä karttoja, myös tyhjille kuitinpaloille",
+      "category": "Creativity",
+      "generated_at": "2026-09-28T19:55:17.861782"
+    },
+    {
+      "english": "Turn chores into sketches, one window at a time",
+      "finnish": "Muunna työt piirroksiksi, yksi ikkuna kerrallaan",
+      "category": "Creativity",
+      "generated_at": "2026-09-28T19:55:17.861791"
+    },
+    {
+      "english": "Ask, what if today is a test of color",
+      "finnish": "Kysy, entä jos tänään on värin koe",
+      "category": "Creativity",
+      "generated_at": "2026-09-28T19:55:17.861793"
+    },
+    {
+      "english": "Mix old rules, with new questions",
+      "finnish": "Sekoita vanhat säännöt, uusiin kysymyksiin",
+      "category": "Creativity",
+      "generated_at": "2026-09-28T19:55:17.861794"
+    },
+    {
+      "english": "Catch weird ideas, in the coffee steam",
+      "finnish": "Saavputa oudot ideat, kahvihöyryn sekaan",
+      "category": "Creativity",
+      "generated_at": "2026-09-28T19:55:17.861795"
     }
   ],
-  "last_updated": "2026-09-28T06:30:37.156626"
+  "last_updated": "2026-09-28T19:55:17.861797"
 }
