@@ -25229,7 +25229,37 @@
       "finnish": "Jopa hiljaisuus, toivo kuuntelee silti.",
       "category": "Hope",
       "generated_at": "2026-10-07T23:25:15.157150"
+    },
+    {
+      "english": "Write one sentence, let mistakes be teachers.",
+      "finnish": "Kirjoita yksi lause, virheet opettavat.",
+      "category": "Success",
+      "generated_at": "2026-10-08T01:23:24.902253"
+    },
+    {
+      "english": "Ask again tomorrow, today's answer can be finished.",
+      "finnish": "Kysy uudestaan huomenna, vastaus ehtii kypsyä.",
+      "category": "Success",
+      "generated_at": "2026-10-08T01:23:24.902265"
+    },
+    {
+      "english": "Keep your socks paired, words will follow later.",
+      "finnish": "Pidä sukat parina, sanat tulevat perässä.",
+      "category": "Success",
+      "generated_at": "2026-10-08T01:23:24.902267"
+    },
+    {
+      "english": "Read aloud, your mouth builds the bridge.",
+      "finnish": "Lue ääneen, suu rakentaa sillan.",
+      "category": "Success",
+      "generated_at": "2026-10-08T01:23:24.902269"
+    },
+    {
+      "english": "When you pause, the language settles in.",
+      "finnish": "Kun pysähdyt, kieli laskeutuu sisään.",
+      "category": "Success",
+      "generated_at": "2026-10-08T01:23:24.902270"
     }
   ],
-  "last_updated": "2026-10-07T23:25:15.157152"
+  "last_updated": "2026-10-08T01:23:24.902272"
 }
