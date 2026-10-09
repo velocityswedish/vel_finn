@@ -25469,7 +25469,37 @@
       "finnish": "Puhu hitaasti, lause löytää paikkansa.",
       "category": "Success",
       "generated_at": "2026-10-09T18:35:42.710377"
+    },
+    {
+      "english": "Wait for the kettle, steam teaches patience.",
+      "finnish": "Odota kahvinkeitintä, höyry opettaa kärsivällisyyttä.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T20:29:14.791958"
+    },
+    {
+      "english": "Let the bread rise, time does the rest.",
+      "finnish": "Anna leivän kohota, aika hoitaa loput.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T20:29:14.791968"
+    },
+    {
+      "english": "Calm down, the bus comes when it comes.",
+      "finnish": "Rauhoitu, bussi tulee, kun se tulee.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T20:29:14.791970"
+    },
+    {
+      "english": "Stir gently, the soup will settle.",
+      "finnish": "Sekoita hiljaa, keitto asettuu rauhassa.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T20:29:14.791971"
+    },
+    {
+      "english": "Read slowly, words soften in your hands.",
+      "finnish": "Lue hitaasti, sanat pehmenevät käsissä.",
+      "category": "Patience",
+      "generated_at": "2026-10-09T20:29:14.791972"
     }
   ],
-  "last_updated": "2026-10-09T18:35:42.710378"
+  "last_updated": "2026-10-09T20:29:14.791974"
 }
