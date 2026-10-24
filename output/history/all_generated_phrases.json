@@ -27719,7 +27719,37 @@
       "finnish": "Kysyn lempeästi, mikä on seuraava askel",
       "category": "Success",
       "generated_at": "2026-10-24T16:22:44.060180"
+    },
+    {
+      "english": "I stand steady, even when the room shifts.",
+      "finnish": "Seison tukevasti, vaikka huone heilahtelee.",
+      "category": "Confidence",
+      "generated_at": "2026-10-24T18:32:59.531474"
+    },
+    {
+      "english": "My voice warms up, one word at a time.",
+      "finnish": "Ääni lämpenee, yksi sana kerrallaan.",
+      "category": "Confidence",
+      "generated_at": "2026-10-24T18:32:59.531485"
+    },
+    {
+      "english": "I test sentences, not perfection, today.",
+      "finnish": "Kokeilen lauseita, en täydellisyyttä, tänään.",
+      "category": "Confidence",
+      "generated_at": "2026-10-24T18:32:59.531486"
+    },
+    {
+      "english": "I ask again, my mind remembers.",
+      "finnish": "Kysyn uudestaan, mieli muistaa.",
+      "category": "Confidence",
+      "generated_at": "2026-10-24T18:32:59.531487"
+    },
+    {
+      "english": "The pause helps me, I breathe.",
+      "finnish": "Tauko auttaa minua, hengitän.",
+      "category": "Confidence",
+      "generated_at": "2026-10-24T18:32:59.531487"
     }
   ],
-  "last_updated": "2026-10-24T16:22:44.060182"
+  "last_updated": "2026-10-24T18:32:59.531488"
 }
