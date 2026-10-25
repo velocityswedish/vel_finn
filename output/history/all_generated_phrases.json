@@ -27899,7 +27899,37 @@
       "finnish": "Ulkovalo auttaa, sisäajat hidastuvat.",
       "category": "Balance",
       "generated_at": "2026-10-25T19:01:58.917563"
+    },
+    {
+      "english": "Share today’s bread, kind words too",
+      "finnish": "Jaa tämän päivän leipä, sano myös ystävällisesti",
+      "category": "Kindness",
+      "generated_at": "2026-10-25T21:20:06.083976"
+    },
+    {
+      "english": "Hold the door, smile then step aside",
+      "finnish": "Pidä ovi auki, hymy, sitten väisty",
+      "category": "Kindness",
+      "generated_at": "2026-10-25T21:20:06.083987"
+    },
+    {
+      "english": "Ask how they are, really listen",
+      "finnish": "Kysy miten menee, kuuntele oikeasti",
+      "category": "Kindness",
+      "generated_at": "2026-10-25T21:20:06.083988"
+    },
+    {
+      "english": "Leave room for others, even in lines",
+      "finnish": "Jätä tilaa muille, vaikka jonossa",
+      "category": "Kindness",
+      "generated_at": "2026-10-25T21:20:06.083990"
+    },
+    {
+      "english": "Compliment quietly, like warm light on winter",
+      "finnish": "Kehu hiljaa, kuin lämmin valo talvella",
+      "category": "Kindness",
+      "generated_at": "2026-10-25T21:20:06.083991"
     }
   ],
-  "last_updated": "2026-10-25T19:01:58.917565"
+  "last_updated": "2026-10-25T21:20:06.083993"
 }
