@@ -29524,7 +29524,42 @@
       "transliteration": "Puhun tänään hitaammin, hiljaa.",
       "category": "Growth",
       "generated_at": "2026-11-11T19:18:48.304087"
+    },
+    {
+      "english": "Be patient, it happens in its time.",
+      "finnish": "Ole kärsivällinen, se tapahtuu aikanaan.",
+      "transliteration": "Oh-leh karsivällinen, se tapahtuu ai-ka-naan.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T21:02:16.463074"
+    },
+    {
+      "english": "Give it a moment, then see.",
+      "finnish": "Anna hetki, sitten katsotaan.",
+      "transliteration": "Anna het-ki, sit-ten kat-so-taan.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T21:02:16.463087"
+    },
+    {
+      "english": "Take your time, no need to hurry.",
+      "finnish": "Ota rauhassa, ei ole kiire.",
+      "transliteration": "O-ta rau-ha-sa, ei ole kii-re.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T21:02:16.463089"
+    },
+    {
+      "english": "Hold on, help is on the way.",
+      "finnish": "Pysy mukana, apu tulee pian.",
+      "transliteration": "Pysy mu-kana, a-pu tu-lee pian.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T21:02:16.463090"
+    },
+    {
+      "english": "Stay calm, the answer will come.",
+      "finnish": "Pysy rauhassa, vastaus tulee.",
+      "transliteration": "Pysy rau-ha-sa, vas-taus tu-lee.",
+      "category": "Patience",
+      "generated_at": "2026-11-11T21:02:16.463091"
     }
   ],
-  "last_updated": "2026-11-11T19:18:48.304089"
+  "last_updated": "2026-11-11T21:02:16.463095"
 }
