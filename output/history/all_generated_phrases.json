@@ -29804,7 +29804,42 @@
       "transliteration": "hiDasTA, voiMasi kasvaa",
       "category": "Strength",
       "generated_at": "2026-11-13T00:54:50.074213"
+    },
+    {
+      "english": "Breathe in, shoulders down, relax.",
+      "finnish": "Hengitä sisään, laske hartiat, rentoudu.",
+      "transliteration": "hengitä sisään, laske hartiat, rentoudu",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T04:29:29.512971"
+    },
+    {
+      "english": "Feel your hands, let them loosen.",
+      "finnish": "Tunne kätesi, anna niiden löystyä.",
+      "transliteration": "tunne kätesi, anna niiden löystyä",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T04:29:29.512990"
+    },
+    {
+      "english": "Soften your gaze, look kindly ahead.",
+      "finnish": "Peitä katseesi pehmeämmäksi, katso ystävällisesti eteenpäin.",
+      "transliteration": "peitä katseesi pehmeämmäksi, katso ystävällisesti eteenpäin",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T04:29:29.512993"
+    },
+    {
+      "english": "Notice one small sound near you.",
+      "finnish": "Huomaa yksi pieni ääni lähelläsi.",
+      "transliteration": "huomaa yksi pieni ääni lähelläsi",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T04:29:29.512995"
+    },
+    {
+      "english": "Relax your tongue, breathe slowly now.",
+      "finnish": "Rentouta kielesi, hengitä hitaasti nyt.",
+      "transliteration": "rentouta kielesi, hengitä hitaasti nyt",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-13T04:29:29.512998"
     }
   ],
-  "last_updated": "2026-11-13T00:54:50.074214"
+  "last_updated": "2026-11-13T04:29:29.513001"
 }
