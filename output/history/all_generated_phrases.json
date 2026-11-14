@@ -29874,7 +29874,42 @@
       "transliteration": "Pidä kiinni, toivo ei ole kaukana.",
       "category": "Hope",
       "generated_at": "2026-11-13T20:45:03.726030"
+    },
+    {
+      "english": "I can do this, step by step.",
+      "finnish": "Minä voin tehdä tämän, askel kerrallaan.",
+      "transliteration": "mina voin tehda taman, askel kerrallaan",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:56:32.231442"
+    },
+    {
+      "english": "I trust my learning, even today.",
+      "finnish": "Luotan oppimiseeni, vaikka tänäänkin.",
+      "transliteration": "luotan oppimiseeni, vaikka tanaan-kin",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:56:32.231455"
+    },
+    {
+      "english": "Small tries count, and I continue.",
+      "finnish": "Pienet yritykset riittävät, ja jatkan.",
+      "transliteration": "pienet yritykset riittävät, ja jatkan",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:56:32.231457"
+    },
+    {
+      "english": "I speak gently, then I move on.",
+      "finnish": "Puhun lempeästi, sitten jatkan eteenpäin.",
+      "transliteration": "puhun lempeasti, sitten jatkan eteenpain",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:56:32.231458"
+    },
+    {
+      "english": "My effort shows, even when imperfect.",
+      "finnish": "Panokseni näkyy, vaikka en olisi täydellinen.",
+      "transliteration": "panokseni nakyy, vaikka en olisi taydellinen",
+      "category": "Confidence",
+      "generated_at": "2026-11-14T18:56:32.231460"
     }
   ],
-  "last_updated": "2026-11-13T20:45:03.726031"
+  "last_updated": "2026-11-14T18:56:32.231462"
 }
