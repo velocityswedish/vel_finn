@@ -30049,7 +30049,42 @@
       "transliteration": "puhu lempeasti, vaikka olet kiireinen",
       "category": "Kindness",
       "generated_at": "2026-11-18T21:43:08.068763"
+    },
+    {
+      "english": "Say hello first, even in Finnish.",
+      "finnish": "Sano ensin hei, vaikka suomeksi.",
+      "transliteration": "Saa-no en-sin hei, vaik-ka suo-mek-si.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T21:58:09.354128"
+    },
+    {
+      "english": "Breathe, then try one new sentence.",
+      "finnish": "Hengitä, sitten yritä yksi uusi lause.",
+      "transliteration": "Hen-gitä, sit-ten yritä yksi uu-si lau-se.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T21:58:09.354139"
+    },
+    {
+      "english": "Listen carefully, repeat softly, keep going.",
+      "finnish": "Kuuntele tarkkaan, toista hiljaa, jatka.",
+      "transliteration": "Kuun-te-le tark-kaan, tois-ta hi-ljaa, jat-ka.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T21:58:09.354141"
+    },
+    {
+      "english": "Small steps today, big progress tomorrow.",
+      "finnish": "Pienet askeleet tänään, iso kehitys huomenna.",
+      "transliteration": "Piei-net as-keleet tänään, i-so ke-hi-tys huo-men-na.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T21:58:09.354142"
+    },
+    {
+      "english": "After coffee, read one short paragraph.",
+      "finnish": "Kahvin jälkeen, lue yksi lyhyt kappale.",
+      "transliteration": "Kah-vin jäl-keen, lue yk-si lyhyt kap-pa-le.",
+      "category": "Purpose",
+      "generated_at": "2026-11-19T21:58:09.354144"
     }
   ],
-  "last_updated": "2026-11-18T21:43:08.068765"
+  "last_updated": "2026-11-19T21:58:09.354146"
 }
