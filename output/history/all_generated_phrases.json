@@ -30119,7 +30119,42 @@
       "transliteration": "Ääneni merkitsee, puhun huolella.",
       "category": "Courage",
       "generated_at": "2026-11-20T21:40:17.033563"
+    },
+    {
+      "english": "I miss you, even in ordinary days.",
+      "finnish": "Minä kaipaan sinua, vaikka arki rullaa.",
+      "transliteration": "mi-NA kai-PAAN si-nua, KAIK-ka ar-ki rul-laa",
+      "category": "Love",
+      "generated_at": "2026-11-21T20:21:45.730438"
+    },
+    {
+      "english": "You make my worries feel lighter.",
+      "finnish": "Sinä kevennät huoleni.",
+      "transliteration": "si-nä KEE-ven-nät HU-o-le-ni",
+      "category": "Love",
+      "generated_at": "2026-11-21T20:21:45.730452"
+    },
+    {
+      "english": "When I see you, I breathe easier.",
+      "finnish": "Kun näen sinut, hengitän kevyemmin.",
+      "transliteration": "kun NÄ-EN si-nut, HEN-gi-tän KEV-yem-min",
+      "category": "Love",
+      "generated_at": "2026-11-21T20:21:45.730454"
+    },
+    {
+      "english": "Stay close, my heart likes it here.",
+      "finnish": "Pysy lähellä, sydämeni viihtyy täällä.",
+      "transliteration": "PY-SY lä-HEL-lä, SY-dä-me-ni VIIHT-yy TÄäl-lä",
+      "category": "Love",
+      "generated_at": "2026-11-21T20:21:45.730455"
+    },
+    {
+      "english": "Your touch says, I’m safe with you.",
+      "finnish": "Sinuun kosketus sanoo, että olen turvassa.",
+      "transliteration": "si-nuun KOS-ketus SA-noo, et-tä o-len TUR-vas-sa",
+      "category": "Love",
+      "generated_at": "2026-11-21T20:21:45.730456"
     }
   ],
-  "last_updated": "2026-11-20T21:40:17.033565"
+  "last_updated": "2026-11-21T20:21:45.730457"
 }
