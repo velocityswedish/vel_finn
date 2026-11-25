@@ -30259,7 +30259,42 @@
       "transliteration": "Suomi helpottuu, kun toistat arjessa.",
       "category": "Motivation",
       "generated_at": "2026-11-24T23:22:49.848517"
+    },
+    {
+      "english": "Wait a moment, then ask again.",
+      "finnish": "Odota hetki, sitten kysy uudelleen.",
+      "transliteration": "Oh-dah het-kee, sitten ky-sy uu-de-staan.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:54:29.483483"
+    },
+    {
+      "english": "It will come, just keep waiting.",
+      "finnish": "Se tulee kyllä, odota vain.",
+      "transliteration": "Se tu-lee kyl-lä, oh-dah vain.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:54:29.483500"
+    },
+    {
+      "english": "Don’t rush, you’ll find the way.",
+      "finnish": "Älä hätiköi, löydät tien.",
+      "transliteration": "A-lä hääk-ee-koi, löy-dät tien.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:54:29.483503"
+    },
+    {
+      "english": "Give it time, things settle down.",
+      "finnish": "Anna aikaa, asiat tasaantuvat.",
+      "transliteration": "An-na ai-kah, ai-a-tat ta-saa-n-tu-vat.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:54:29.483504"
+    },
+    {
+      "english": "Slow down, the day will unfold.",
+      "finnish": "Hidasta, päivä järjestyy.",
+      "transliteration": "Hii-das-ta, päi-vä jär-jes-tyy.",
+      "category": "Patience",
+      "generated_at": "2026-11-25T22:54:29.483506"
     }
   ],
-  "last_updated": "2026-11-24T23:22:49.848519"
+  "last_updated": "2026-11-25T22:54:29.483508"
 }
