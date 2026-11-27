@@ -2,9 +2,9 @@ name: Velocity Finnish - Storybook Publish
 
 on:
   schedule:
-    - cron: '00:12 * * *'
-    - cron: '08:12 * * *'
-    - cron: '16:12 * * *'
+    - cron: '12 0 * * *'
+    - cron: '12 8 * * *'
+    - cron: '12 16 * * *'
   workflow_dispatch:
     inputs:
       category:
