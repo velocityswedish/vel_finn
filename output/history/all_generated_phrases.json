@@ -30392,7 +30392,28 @@
       "transliteration": "Yksi selkeä lause riittää tälle päivälle.",
       "category": "Success",
       "generated_at": "2026-11-28T07:46:18.424093"
+    },
+    {
+      "english": "You make hard days feel lighter.",
+      "finnish": "Sä teet vaikeista päivistä kevyempiä.",
+      "transliteration": "Sä teet vaikeista päivistä kevyempiä",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T16:50:42.483885"
+    },
+    {
+      "english": "Your voice calms me down.",
+      "finnish": "Sun äänes rauhoittaa mut.",
+      "transliteration": "Sun äänes rauhoittaa mut",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T16:50:42.483898"
+    },
+    {
+      "english": "Thanks for listening, really.",
+      "finnish": "Kiitos kun kuuntelit, ihan oikeesti.",
+      "transliteration": "Kiitos kun kuuntelit, ihan oikeesti",
+      "category": "Friendship",
+      "generated_at": "2026-11-28T16:50:42.483899"
     }
   ],
-  "last_updated": "2026-11-28T07:46:18.424095"
+  "last_updated": "2026-11-28T16:50:42.483901"
 }
